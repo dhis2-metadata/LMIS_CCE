@@ -1,1 +1,1 @@
-# LMIS Installation Guide { #lmis-cce-installation }
+# LMIS CCE Installation Guide { #lmis-cce-installation }
