@@ -1,5 +1,5 @@
-# Release Note { #ntd-agg-release-note }
+# Release Note { #lmis-cce-release-note }
 
 ## 1.0.0
 
-Initial release of the Neglecte Tropical Diseases package
+Initial release of the LMIS CCE package
