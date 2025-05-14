@@ -2460,22 +2460,6 @@
             "legends": [
                 {
                     "attributeValues": [],
-                    "color": "#9904A5",
-                    "endValue": 100.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "TVsX5VkkdRu",
-                    "name": "More than 10 alarms",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 10.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FF1300",
                     "endValue": 10.0,
                     "favorite": false,
@@ -2504,6 +2488,22 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#9904A5",
+                    "endValue": 100.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "TVsX5VkkdRu",
+                    "name": "More than 10 alarms",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 10.0,
                     "translations": []
                 },
                 {
@@ -2584,22 +2584,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#0A0909",
-                    "endValue": 0.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "DWVqBcJEokQ",
-                    "name": "At or below 0° Celsius",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": -273.15,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FB023D",
                     "endValue": 2.0,
                     "favorite": false,
@@ -2612,6 +2596,22 @@
                         "users": {}
                     },
                     "startValue": 0.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#0A0909",
+                    "endValue": 0.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "DWVqBcJEokQ",
+                    "name": "At or below 0° Celsius",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": -273.15,
                     "translations": []
                 }
             ],
@@ -2781,6 +2781,22 @@
                 },
                 {
                     "attributeValues": [],
+                    "color": "#0BFF00",
+                    "endValue": 4.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "oWDNskIR6vv",
+                    "name": "Adequate stock",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 3.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
                     "color": "#EE391E",
                     "endValue": 0.0001,
                     "favorite": false,
@@ -2809,22 +2825,6 @@
                         "users": {}
                     },
                     "startValue": 0.0001,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
-                    "color": "#0BFF00",
-                    "endValue": 4.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "oWDNskIR6vv",
-                    "name": "Adequate stock",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 3.0,
                     "translations": []
                 }
             ],
@@ -2874,22 +2874,6 @@
                 },
                 {
                     "attributeValues": [],
-                    "color": "#68FE4C",
-                    "endValue": 1.0,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "WsgrEBNBIx4",
-                    "name": "Correct stock",
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "startValue": 0.0,
-                    "translations": []
-                },
-                {
-                    "attributeValues": [],
                     "color": "#FF2000",
                     "endValue": 1000000.0,
                     "favorite": false,
@@ -2902,6 +2886,22 @@
                         "users": {}
                     },
                     "startValue": 1.0,
+                    "translations": []
+                },
+                {
+                    "attributeValues": [],
+                    "color": "#68FE4C",
+                    "endValue": 1.0,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "WsgrEBNBIx4",
+                    "name": "Correct stock",
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "startValue": 0.0,
                     "translations": []
                 }
             ],
