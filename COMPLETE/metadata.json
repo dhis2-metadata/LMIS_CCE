@@ -3774,15 +3774,15 @@
     "organisationUnitGroupSets": [],
     "organisationUnitGroups": [],
     "package": {
-        "DHIS2Build": "17e4c80",
-        "DHIS2Version": "2.41.3.1",
+        "DHIS2Build": "dfd7f48",
+        "DHIS2Version": "2.40.5",
         "code": "LMIS_CCE",
         "description": "Logistics: Cold Chain Equipment",
         "healthAreaCode": "LMIS",
         "healthAreaName": "Logistics",
         "lastUpdated": "20250513T105736",
         "locale": "en",
-        "name": "LMIS_CCE_TRK_DHIS2.41.3.1-en",
+        "name": "LMIS_CCE_TRK_DHIS2.40.5-en",
         "type": "TRK",
         "version": ""
     },
